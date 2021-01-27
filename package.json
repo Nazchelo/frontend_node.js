@@ -1,0 +1,26 @@
+{
+  "name": "02.-hw_kn",
+  "version": "0.1.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "Home work",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nazchelo/frontend_node.js.git"
+  },
+  "author": "NK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nazchelo/frontend_node.js/issues"
+  },
+  "homepage": "https://github.com/Nazchelo/frontend_node.js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
